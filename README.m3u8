@@ -603,6 +603,8 @@ https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8?ManoTV
 #EXTINF:-1  tvg-logo="https://imgur.com/jtlJ6x7.png" group-title="Canais | FILMES E SERIES",TV Amor 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5573
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Telecine-fun-2.png" group-title="Canais | FILMES E SERIES",Telecine Fun 
+https://origin.esporteone.com/TELECINEFUNSD/tracks-v1a1/mono.m3u8?md5=NhuSgJo0TyOin3mGyfZgDA&expires=1698266649
 
 ############################################################################ CANAIS RUNTIME
 
