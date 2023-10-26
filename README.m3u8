@@ -496,7 +496,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 ############################################################################ Canais | FILMES E SERIES
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE SD
-https://cdn-1.nxplay.com.br/SPACE_TK/tracks-v1a1/mono.m3u8
+https://tvembed.net/br/space/tracks-v1a1/mono.m3u8?remote=191.7.216.114&token=806d19845a5e17a82c52fd76d7225ab7c19d604e-a3448bbe66ca0bdbe00a64624645abf6-1698295032-1698287832
 
 #EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais | FILMES E SERIES",SPACE HD
 https://cdn-1.nxplay.com.br/SPACE_TK/tracks-v2a1/mono.m3u8
