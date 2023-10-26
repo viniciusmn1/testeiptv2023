@@ -293,6 +293,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/
 #EXTINF:-1 tvg-logo="https://imgur.com/jlhvLJb.png" group-title="Canais | VARIEDADES",Motorvision |PT HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2182
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Canais | VARIEDADES",Nacional Geografic
+https://tvembed.net/br/nat-geo/tracks-v1a1/mono.m3u8?remote=191.7.216.114&token=17edfdb0df36bdb8cfbc2fdf4ffa936239a2b6e4-2bd27afb90efe438d19e82f08c1c879f-1698298318-1698291118
+
 #EXTINF:-1 tvg-logo="https://imgur.com/6sTkahx.png" group-title="Canais | VARIEDADES",Discovery World HD
 https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
@@ -862,6 +865,18 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e100070
 
 #EXTINF:-1 tvg-id="Babyfirst" tvg-name="Babyfirst" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="Canais | INFANTIL",Babyfirst
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="Baby Tv" tvg-name="Baby Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="Canais | INFANTIL",Baby Tv
+https://tvembed.net/br/babytv/tracks-v1a1/mono.m3u8?remote=191.7.216.114&token=27da94fe76fdd1cea0dc55b887f2e77d89e501e6-fb8d1db4539aaa72a049d00c3699a507-1698297165-1698289965
+
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/2438px-ZooMoo_logo.svg.png" group-title="Canais | INFANTIL",ZooMoo
+https://tvembed.net/zoomoo/tracks-v1a1/mono.m3u8?remote=191.7.216.114&token=51fd34dcc1b1a4446a7951e63b52abf8ac95216a-2e48db797ddb3b9962365a79c5cc176e-1698296325-1698289125
+
+#EXTINF:-1 tvg-id="TV Rá-Tim-Bum" tvg-name="TV Rá-Tim-Bum" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Canais | INFANTIL",TV Rá-Tim-Bum
+https://tvembed.net/br/tv-ra-tim-bum/tracks-v1a1/mono.m3u8?remote=191.7.216.114&token=b64a07567058ec46e1cccbfa5e42cde902f9ea91-93daf656c3ee76adc5fbe1588a5e9d72-1698297534-1698290334
+
+#EXTINF:-1 tvg-id="Gospel Cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://www.clipartmax.com/png/middle/69-699626_long-beach-gospel-fest-gospel-fest.png" group-title="Canais | INFANTIL",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w658062754.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/63988c2750108d00072e2686/colorLogoPNG.png" group-title="Canais | INFANTIL",Super Onze
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
