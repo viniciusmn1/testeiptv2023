@@ -843,7 +843,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1214a637c6fd00079
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Gloob_2022.svg/1200px-Gloob_2022.svg.png" group-title="Canais | INFANTIL",Gloob
-https://d31ii3fk8fd7mh.cloudfront.net/out/v1/bbba1fe5b29f40f387435ce7eed1c167/index_video_5_0_964982.mp4?m=1683817249
+https://tvembed.net/br/gloob/tracks-v1a1/mono.m3u8?remote=191.7.216.114&token=95a3f1cb6f44279fade6fe9ef43b00137f30701c-c37b1cb670a361fabcfaa9771c415cd6-1698296745-1698289545
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gloobinho_logo.svg/1200px-Gloobinho_logo.svg.png" group-title="Canais | INFANTIL",Gloobinho
+https://tvembed.net/br/globinho/tracks-v1a1/mono.m3u8?remote=191.7.216.114&token=eb73d4ef6397a001300dad9aca449e5de6682482-2bbf6aea7b74c93443cc4a8ec0e9beae-1698296537-1698289337
 
 #EXTINF:-1 tvg-logo="https://imgur.com/j9CMGyU.png" group-title="Canais | INFANTIL",Nick Jr. Club
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781a100-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c002e3af-c4af-4a44-867e-55e324587507&userId=&serverSideAds=true
