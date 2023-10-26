@@ -558,8 +558,11 @@ http://195.181.163.144:14606/
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://imgur.com/smM7mYc.png" group-title="Canais | FILMES E SERIES",HBO 2 HD
 http://208.115.225.174:14140/
 
-#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="https://imgur.com/u5vGypD.png" group-title="Canais | FILMES E SERIES",HBO PLUS HD
+#EXTINF:-1 tvg-id="HBO XTREME" tvg-name="HBO XTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Canais | FILMES E SERIES",HBO XTREME HD
+https://tvembed.net/br/hbo-xtreme/tracks-v1a1/mono.m3u8?remote=191.7.216.114&token=382157156a81c5b9e891d008f86b9e40298e16d1-79e86c0cd1065ead20a07d299b782f3f-1698295227-1698288027
 
+#EXTINF:-1 tvg-id="HBO POP" tvg-name="HBO POP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png" group-title="Canais | FILMES E SERIES",HBO POP HD
+https://tvembed.net/br/hbo-pop/tracks-v1a1/mono.m3u8?remote=191.7.216.114&token=ddbe0a0e070a60298797a90ac319ece9ee48229b-681788c8a264acffec4bf47042c74f59-1698295610-1698288410
 
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE 
 http://208.115.225.174:14160/
