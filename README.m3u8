@@ -567,6 +567,9 @@ https://tvembed.net/br/hbo-pop/tracks-v1a1/mono.m3u8?remote=191.7.216.114&token=
 #EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="https://imgur.com/OzINH3M.png" group-title="Canais | FILMES E SERIES",HBO SIGNATURE 
 http://208.115.225.174:14160/
 
+#EXTINF:-1 tvg-id="HBO MUNDI" tvg-name="HBO MUNDI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" group-title="Canais | FILMES E SERIES",HBO MUNDI HD
+https://tvembed.net/br/hbo-mundi/tracks-v1a1/mono.m3u8?remote=191.7.216.114&token=8a5de2592ab51ed2dca45c7012514f98f84ecda2-c8fb252eab2c7c420a8ac6da4566a543-1698295224-1698288024
+
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://imgur.com/mMLZhgP.png" group-title="Canais | FILMES E SERIES",Studio Universal HD
 http://45.58.126.146:14332/
 
